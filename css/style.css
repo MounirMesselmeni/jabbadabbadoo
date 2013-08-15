@@ -1,0 +1,23 @@
+body{
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+table{
+	width: 100%;
+}
+
+table thead td{
+	background: #6688AA;
+	text-align: center;
+}
+
+table td{
+	background: #DDEEFF;
+}
+
+table tr.first-line td{
+	background: #CCDDEE;
+	color: #4E6C8D;
+}
